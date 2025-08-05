@@ -1,0 +1,7 @@
+# Arquivos compilados
+*.exe
+*.o
+*.out
+
+# Pasta de configurações do VS Code
+.vscode/
